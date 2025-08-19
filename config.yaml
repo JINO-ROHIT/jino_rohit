@@ -56,7 +56,7 @@ params:
     enabled: true # needs to be explicitly set
     title: "Jino Rohit"
     subtitle: "ML Engineer"
-    imageUrl: "/img/jino.jpg"
+    imageUrl: "img/jino.jpg"
     imageWidth: 200
     imageHeight: 200
     imageTitle: jino
