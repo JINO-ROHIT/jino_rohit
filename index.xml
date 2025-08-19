@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Home on Jino Rohit</title>
-    <link>https://jino-rohit.github.io/jino_rohit/</link>
+    <link>https://JINO-ROHIT.github.io/</link>
     <description>Recent content in Home on Jino Rohit</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://jino-rohit.github.io/jino_rohit/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://JINO-ROHIT.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Experience</title>
-      <link>https://jino-rohit.github.io/jino_rohit/experience/</link>
+      <link>https://JINO-ROHIT.github.io/experience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jino-rohit.github.io/jino_rohit/experience/</guid>
+      <guid>https://JINO-ROHIT.github.io/experience/</guid>
       <description>&lt;h3 id=&#34;wip&#34;&gt;WIP&lt;/h3&gt;</description>
     </item>
     <item>
       <title>Projects</title>
-      <link>https://jino-rohit.github.io/jino_rohit/project/</link>
+      <link>https://JINO-ROHIT.github.io/project/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jino-rohit.github.io/jino_rohit/project/</guid>
+      <guid>https://JINO-ROHIT.github.io/project/</guid>
       <description>&lt;p&gt;Visit my &lt;a href=&#34;https://github.com/JINO-ROHIT/&#34;&gt;github&lt;/a&gt; for more.&lt;/p&gt;
 &lt;h3 id=&#34;wip&#34;&gt;WIP&lt;/h3&gt;</description>
     </item>
